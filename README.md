@@ -4,12 +4,12 @@ This project is a multi-step registration form built with **Next.js**, **TypeScr
 
 ## 🚀 Live Demo
 **Vercel Link**: [https://your-vercel-link.vercel.app](https://your-vercel-link.vercel.app)  
-**GitHub Repo**: [https://github.com/your-username/multistep-form](https://github.com/your-username/multistep-form)
+**GitHub Repo**: [https://github.com/byteprowler/mentorled-form](https://github.com/byteprowler/mentorled-form)
 
 ---
 
 ## 📸 Screenshots
-![screenshot](./public/demo-preview.png)
+![screenshot](./public/demo-preview.jpg)
 
 ---
 
@@ -27,7 +27,7 @@ This project is a multi-step registration form built with **Next.js**, **TypeScr
 
 ## 🧩 Tech Stack
 
-- **Next.js** 14
+- **Next.js** 15
 - **TypeScript**
 - **TailwindCSS**
 - **Framer Motion**
@@ -39,6 +39,7 @@ This project is a multi-step registration form built with **Next.js**, **TypeScr
 
 📁 components/
 │ ├── StepOne.tsx
+| |-- ProgressBar.tsx
 │ ├── StepTwo.tsx
 │ ├── StepThree.tsx
 │ ├── Summary.tsx
