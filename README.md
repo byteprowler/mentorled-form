@@ -3,7 +3,7 @@
 This project is a multi-step registration form built with **Next.js**, **TypeScript**, and **React Hook Form**, enhanced with **Framer Motion animations** and a personal twist — the form includes themed questions around **music** and **anime**, making it fun and expressive for creative users or dev community profiles.
 
 ## 🚀 Live Demo
-**Vercel Link**: [https://your-vercel-link.vercel.app](https://your-vercel-link.vercel.app)  
+**Vercel Link**: [https://mentorled-form.vercel.app](https://mentorled-form.vercel.app)  
 **GitHub Repo**: [https://github.com/byteprowler/mentorled-form](https://github.com/byteprowler/mentorled-form)
 
 ---
@@ -55,7 +55,7 @@ This project is a multi-step registration form built with **Next.js**, **TypeScr
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/multistep-form.git
-cd multistep-form
+git clone https://github.com/byteprowler/mentorled-form.git
+cd mentorled-form
 npm install
 npm run dev
